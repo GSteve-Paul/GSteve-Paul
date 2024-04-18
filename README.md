@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-🔭 My Programming Language
+🔭 My Programming Language:
 - C++
 - Java
 - C#
 - Visual Basic.NET
 - Python
 
-🌱 I’m currently learning
+🌱 I’m currently learning:
 - C++
 - Algorithm
 - Discrete Mathematics
 
-👯 I’m looking to collaborate on 
+👯 I’m looking to collaborate on:
 - NENU ACM team
 - NENU Bluemsun Studio
   
-💬 Ask me about 
+💬 Ask me about:
 - Simple Algorithm
 - Java && SpringBoot
 
