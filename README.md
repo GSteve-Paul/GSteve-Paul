@@ -24,6 +24,3 @@
 📫 How to reach me: 
 - Northeast Normal University (Jingyue Campus), Changchun, Jilin, China
 - Wanzhou, Chongqing, China
-
-⚡ Fun fact:
-- unique joker
