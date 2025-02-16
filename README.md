@@ -1,5 +1,6 @@
-### Hi there 👋.
+### Hi there 👋
 I am Jiangnan Li, a undergraduate at NENU majoring in CS.
+
 As a simple ACMer, 5 Bronze Medals of ICPC/CCPC regional competitions and 2 Silver Medals of invitational competitions are awarded.
  
 ## 🔭 My Programming Language:
