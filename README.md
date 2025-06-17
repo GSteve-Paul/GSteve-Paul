@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Jiangnan Li, an undergraduate at NENU majoring in CS.
+I am Jiangnan Li, an undergraduate at Northeast Normal University majoring in CS.
 
 As a simple ACMer, 5 Bronze Medals of ICPC/CCPC regional competitions and 2 Silver Medals of ICPC/CCPC invitational competitions are awarded.
  
@@ -20,3 +20,4 @@ As a simple ACMer, 5 Bronze Medals of ICPC/CCPC regional competitions and 2 Silv
 
 ## 📫 How to reach me: 
 - lijn101@nenu.edu.cn
+- lijn101@outlook.com
