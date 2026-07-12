@@ -1,22 +1,26 @@
-### Hi there 👋
-I am Jiangnan Li, an undergraduate at Northeast Normal University majoring in Computer Science.
+## 👋 Hi there 
+I am Jiangnan Li. I received my B.S. in Computer Science from Northeast Normal University and am currently pursuing an M.S. at the Institute of Software, Chinese Academy of Sciences (ISCAS). My research focuses on **automated reasoning and constraint solving**.
 
-As a simple ACMer, 5 Bronze Medals of ICPC/CCPC regional competitions and 2 Silver Medals of ICPC/CCPC invitational competitions are awarded.
+---
+
+### 🏆 Programming Competitions
+- 🥉 5 Bronze Medals in ICPC/CCPC Regional Contests
+- 🥈 2 Silver Medals in ICPC/CCPC Invitational Contests
  
-## 🔭 My Programming Language:
+### 🔭 Programming Languages:
 - C/C++
 - Rust
 - Java
 - C#
 - Visual Basic.NET
 
-## 🌱 I’m currently learning:
-- Operating System
-- Constraint Solving
+### 🌱 I’m currently learning:
+- ANF solving
+- SMT solving
 
-## 👯 I’m a member of:
-- NENU ACM team
-- NENU Bluemsun Studio
+### 👯 I’m a member of:
+- Former member of the NENU ACM Team
+- Former member of NENU Bluemsun Studio
 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 - lijn101@outlook.com
